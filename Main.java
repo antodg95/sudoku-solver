@@ -10,8 +10,6 @@ public class Main {
     	
     	System.out.println("Qui secondo commit!");
     	
-    	System.out.println("Ora ho creato una branch!");
-    	
     	System.out.println("Secondo branch di prova");
     	System.out.println("Sempre il secondo branch");
 
