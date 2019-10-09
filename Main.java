@@ -7,6 +7,8 @@ public class Main {
     public static void main(String[] args) {
     	
     	System.out.println("Qui ho cambiato :)");
+    	
+    	System.out.println("Qui secondo commit!");
 
         if(args.length == 0) {
             out.println("Nessun file di gioco è stato passato come argomento al programma.");
